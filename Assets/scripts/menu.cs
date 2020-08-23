@@ -20,3 +20,4 @@ public class menu : MonoBehaviour
         UnityEngine.SceneManagement.SceneManager.LoadScene(1);
     }
 }
+
